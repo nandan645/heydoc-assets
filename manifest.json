@@ -1,0 +1,1945 @@
+{
+  "name": "heydoc-assets",
+  "version": "1.0.0",
+  "description": "Official brand assets, presets, logos, UI mockups, and journey diagrams for HeyDoc.",
+  "total_assets": 137,
+  "assets": [
+    {
+      "name": "Heydoc Logo",
+      "filename": "HeyDoc Logo.png",
+      "path": "HeyDoc Logo.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "heydoc",
+        "logo"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Audio",
+      "filename": "audio.png",
+      "path": "hero\\audio.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "audio"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Brain",
+      "filename": "brain.png",
+      "path": "hero\\brain.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "brain"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Consumer",
+      "filename": "consumer.png",
+      "path": "hero\\consumer.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "consumer"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "External Agent",
+      "filename": "external-agent.png",
+      "path": "hero\\external-agent.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "external",
+        "agent"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Hospital",
+      "filename": "hospital.png",
+      "path": "hero\\hospital.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "hospital"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Internal Agent",
+      "filename": "internal-agent.png",
+      "path": "hero\\internal-agent.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "internal",
+        "agent"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Text",
+      "filename": "text.png",
+      "path": "hero\\text.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "text"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Video",
+      "filename": "video.png",
+      "path": "hero\\video.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "video"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Enterprise Dashboard",
+      "filename": "enterprise_dashboard.png",
+      "path": "presets\\enterprise_dashboard.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "enterprise",
+        "dashboard"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Architecture Flow 01",
+      "filename": "architecture_flow_01.png",
+      "path": "presets\\architecture_flow_presets\\architecture_flow_01.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "architecture",
+        "flow"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Architecture Flow 02",
+      "filename": "architecture_flow_02.png",
+      "path": "presets\\architecture_flow_presets\\architecture_flow_02.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "architecture",
+        "flow"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Architecture Flow 04",
+      "filename": "architecture_flow_04.png",
+      "path": "presets\\architecture_flow_presets\\architecture_flow_04.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "architecture",
+        "flow"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Frame 2039731",
+      "filename": "Frame_2039731.png",
+      "path": "presets\\comparison_ecosystem_presets\\Frame_2039731.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "frame",
+        "2039731"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Frame 2039732",
+      "filename": "Frame_2039732.png",
+      "path": "presets\\comparison_ecosystem_presets\\Frame_2039732.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "frame",
+        "2039732"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Frame 2039733",
+      "filename": "Frame_2039733.png",
+      "path": "presets\\comparison_ecosystem_presets\\Frame_2039733.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "frame",
+        "2039733"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Biomarker Risk Summary",
+      "filename": "biomarker_risk_summary.png",
+      "path": "presets\\consumer_experience\\biomarker_risk_summary.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "biomarker",
+        "risk",
+        "summary"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Care Scheduling Booking",
+      "filename": "care_scheduling_booking.png",
+      "path": "presets\\consumer_experience\\care_scheduling_booking.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "care",
+        "scheduling",
+        "booking"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Claim Approved Notification",
+      "filename": "claim_approved_notification.png",
+      "path": "presets\\consumer_experience\\claim_approved_notification.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "claim",
+        "approved",
+        "notification"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Connected Care Orchestration",
+      "filename": "connected_care_orchestration.png",
+      "path": "presets\\consumer_experience\\connected_care_orchestration.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "connected",
+        "care",
+        "orchestration"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Diagnostic Agent Conversation",
+      "filename": "diagnostic_agent_conversation.png",
+      "path": "presets\\consumer_experience\\diagnostic_agent_conversation.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "diagnostic",
+        "agent",
+        "conversation"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Guided Claims Tracker",
+      "filename": "guided_claims_tracker.png",
+      "path": "presets\\consumer_experience\\guided_claims_tracker.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "guided",
+        "claims",
+        "tracker"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Insights To Action Care",
+      "filename": "insights_to_action_care.png",
+      "path": "presets\\consumer_experience\\insights_to_action_care.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "insights",
+        "action",
+        "care"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Insurance Coverage Preauth",
+      "filename": "insurance_coverage_preauth.png",
+      "path": "presets\\consumer_experience\\insurance_coverage_preauth.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "insurance",
+        "coverage",
+        "preauth"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Insurance Verification Flow",
+      "filename": "insurance_verification_flow.png",
+      "path": "presets\\consumer_experience\\insurance_verification_flow.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "insurance",
+        "verification",
+        "flow"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Lab Report Upload",
+      "filename": "lab_report_upload.png",
+      "path": "presets\\consumer_experience\\lab_report_upload.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "lab",
+        "report",
+        "upload"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Multi Agent Collaboration",
+      "filename": "multi_agent_collaboration.png",
+      "path": "presets\\consumer_experience\\multi_agent_collaboration.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "multi",
+        "agent",
+        "collaboration"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Post Discharge Calling Agent",
+      "filename": "post_discharge_calling_agent.png",
+      "path": "presets\\consumer_experience\\post_discharge_calling_agent.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "post",
+        "discharge",
+        "calling",
+        "agent"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Proactive Health Nudge",
+      "filename": "proactive_health_nudge.png",
+      "path": "presets\\consumer_experience\\proactive_health_nudge.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "proactive",
+        "health",
+        "nudge"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Unified Agentic Memory",
+      "filename": "unified_agentic_memory.png",
+      "path": "presets\\consumer_experience\\unified_agentic_memory.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "unified",
+        "agentic",
+        "memory"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Visit Summary Diagnosis",
+      "filename": "visit_summary_diagnosis.png",
+      "path": "presets\\consumer_experience\\visit_summary_diagnosis.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "visit",
+        "summary",
+        "diagnosis"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Wellness Gpt Chat Fatigue",
+      "filename": "wellness_gpt_chat_fatigue.png",
+      "path": "presets\\consumer_experience\\wellness_gpt_chat_fatigue.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "wellness",
+        "gpt",
+        "chat",
+        "fatigue"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Agentic Orchestration Engine",
+      "filename": "agentic_orchestration_engine.png",
+      "path": "presets\\core_capabilities\\agentic_orchestration_engine.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "agentic",
+        "orchestration",
+        "engine"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Compound Consumer Growth",
+      "filename": "compound_consumer_growth.png",
+      "path": "presets\\core_capabilities\\compound_consumer_growth.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "compound",
+        "consumer",
+        "growth"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Enterprise Intelligence Layer",
+      "filename": "enterprise_intelligence_layer.png",
+      "path": "presets\\core_capabilities\\enterprise_intelligence_layer.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "enterprise",
+        "intelligence",
+        "layer"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Enterprise Knowledge Graph",
+      "filename": "enterprise_knowledge_graph.png",
+      "path": "presets\\core_capabilities\\enterprise_knowledge_graph.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "enterprise",
+        "knowledge",
+        "graph"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Healthmem Temporal Memory",
+      "filename": "healthmem_temporal_memory.png",
+      "path": "presets\\core_capabilities\\healthmem_temporal_memory.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "healthmem",
+        "temporal",
+        "memory"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Immediate Resolution",
+      "filename": "immediate_resolution.png",
+      "path": "presets\\core_capabilities\\immediate_resolution.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "immediate",
+        "resolution"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Instant Strategic Querying",
+      "filename": "instant_strategic_querying.png",
+      "path": "presets\\core_capabilities\\instant_strategic_querying.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "instant",
+        "strategic",
+        "querying"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Multimodal Synthesis",
+      "filename": "multimodal_synthesis.png",
+      "path": "presets\\core_capabilities\\multimodal_synthesis.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "multimodal",
+        "synthesis"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Predictive Outreach",
+      "filename": "predictive_outreach.png",
+      "path": "presets\\core_capabilities\\predictive_outreach.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "predictive",
+        "outreach"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Scalable Market Share",
+      "filename": "scalable_market_share.png",
+      "path": "presets\\core_capabilities\\scalable_market_share.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "scalable",
+        "market",
+        "share"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Specialized Healthcare Agents",
+      "filename": "specialized_healthcare_agents.png",
+      "path": "presets\\core_capabilities\\specialized_healthcare_agents.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "specialized",
+        "healthcare",
+        "agents"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Zero Friction Operations",
+      "filename": "zero_friction_operations.png",
+      "path": "presets\\core_capabilities\\zero_friction_operations.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "zero",
+        "friction",
+        "operations"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Call 20Screen",
+      "filename": "Call_20Screen.png",
+      "path": "presets\\dynamic_presets\\Call_20Screen.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "call",
+        "20screen"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Decision Execution Tracker",
+      "filename": "decision_execution_tracker.png",
+      "path": "presets\\enterprise_brain\\decision_execution_tracker.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "decision",
+        "execution",
+        "tracker"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Diagnostic Root Cause Investigation",
+      "filename": "diagnostic_root_cause_investigation.png",
+      "path": "presets\\enterprise_brain\\diagnostic_root_cause_investigation.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "diagnostic",
+        "root",
+        "cause",
+        "investigation"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Executive Decision Brief",
+      "filename": "executive_decision_brief.png",
+      "path": "presets\\enterprise_brain\\executive_decision_brief.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "executive",
+        "decision",
+        "brief"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Executive Intelligence Telemetry",
+      "filename": "executive_intelligence_telemetry.png",
+      "path": "presets\\enterprise_brain\\executive_intelligence_telemetry.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "executive",
+        "intelligence",
+        "telemetry"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Agent Transition Analysis",
+      "filename": "agent_transition_analysis.png",
+      "path": "presets\\intelligence_dashboards\\agent_transition_analysis.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "agent",
+        "transition",
+        "analysis"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Campaign Usage Analytics",
+      "filename": "campaign_usage_analytics.png",
+      "path": "presets\\intelligence_dashboards\\campaign_usage_analytics.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "campaign",
+        "usage",
+        "analytics"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Composable Intelligence Stack",
+      "filename": "composable_intelligence_stack.png",
+      "path": "presets\\intelligence_dashboards\\composable_intelligence_stack.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "composable",
+        "intelligence",
+        "stack"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Gtm Tracks Comparative Matrix",
+      "filename": "gtm_tracks_comparative_matrix.png",
+      "path": "presets\\intelligence_dashboards\\gtm_tracks_comparative_matrix.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "gtm",
+        "tracks",
+        "comparative",
+        "matrix"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Profile Completeness Matrix",
+      "filename": "profile_completeness_matrix.png",
+      "path": "presets\\intelligence_dashboards\\profile_completeness_matrix.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "profile",
+        "completeness",
+        "matrix"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "4Basecare",
+      "filename": "4basecare.png",
+      "path": "presets\\logo_presets\\4basecare.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "4basecare"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Agilus Diagnostics",
+      "filename": "agilus_diagnostics.png",
+      "path": "presets\\logo_presets\\agilus_diagnostics.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "agilus",
+        "diagnostics"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Amaha",
+      "filename": "amaha.png",
+      "path": "presets\\logo_presets\\amaha.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "amaha"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Beato",
+      "filename": "beato.png",
+      "path": "presets\\logo_presets\\beato.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "beato"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Cloudnine",
+      "filename": "cloudnine.png",
+      "path": "presets\\logo_presets\\cloudnine.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "cloudnine"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Connect And Heal",
+      "filename": "connect_and_heal.png",
+      "path": "presets\\logo_presets\\connect_and_heal.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "connect",
+        "and",
+        "heal"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Cultfit",
+      "filename": "cultfit.png",
+      "path": "presets\\logo_presets\\cultfit.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "cultfit"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Doceree",
+      "filename": "doceree.png",
+      "path": "presets\\logo_presets\\doceree.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "doceree"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Docprime",
+      "filename": "docprime.png",
+      "path": "presets\\logo_presets\\docprime.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "docprime"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Dr Lal Pathlabs",
+      "filename": "dr_lal_pathlabs.png",
+      "path": "presets\\logo_presets\\dr_lal_pathlabs.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "lal",
+        "pathlabs"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Eka Care",
+      "filename": "eka_care.png",
+      "path": "presets\\logo_presets\\eka_care.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "eka",
+        "care"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Fitterfly",
+      "filename": "fitterfly.png",
+      "path": "presets\\logo_presets\\fitterfly.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "fitterfly"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Goqii",
+      "filename": "goqii.png",
+      "path": "presets\\logo_presets\\goqii.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "goqii"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Healthians",
+      "filename": "healthians.png",
+      "path": "presets\\logo_presets\\healthians.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "healthians"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Healthify",
+      "filename": "healthify.png",
+      "path": "presets\\logo_presets\\healthify.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "healthify"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Healthplix",
+      "filename": "healthplix.png",
+      "path": "presets\\logo_presets\\healthplix.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "healthplix"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Heydoc",
+      "filename": "heydoc.png",
+      "path": "presets\\logo_presets\\heydoc.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "heydoc"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Icall",
+      "filename": "icall.png",
+      "path": "presets\\logo_presets\\icall.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "icall"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Innovaccer",
+      "filename": "innovaccer.png",
+      "path": "presets\\logo_presets\\innovaccer.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "innovaccer"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Jivi Ai",
+      "filename": "jivi_ai.png",
+      "path": "presets\\logo_presets\\jivi_ai.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "jivi"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Lifecell",
+      "filename": "lifecell.png",
+      "path": "presets\\logo_presets\\lifecell.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "lifecell"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Lilac Insights",
+      "filename": "lilac_insights.png",
+      "path": "presets\\logo_presets\\lilac_insights.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "lilac",
+        "insights"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Lissun",
+      "filename": "lissun.png",
+      "path": "presets\\logo_presets\\lissun.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "lissun"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Lybrate",
+      "filename": "lybrate.png",
+      "path": "presets\\logo_presets\\lybrate.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "lybrate"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Machaxi",
+      "filename": "machaxi.png",
+      "path": "presets\\logo_presets\\machaxi.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "machaxi"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Manipal Trutest",
+      "filename": "manipal_trutest.png",
+      "path": "presets\\logo_presets\\manipal_trutest.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "manipal",
+        "trutest"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Medgenome",
+      "filename": "medgenome.png",
+      "path": "presets\\logo_presets\\medgenome.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "medgenome"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Medibuddy",
+      "filename": "medibuddy.png",
+      "path": "presets\\logo_presets\\medibuddy.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "medibuddy"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Metropolis",
+      "filename": "metropolis.png",
+      "path": "presets\\logo_presets\\metropolis.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "metropolis"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Mfine",
+      "filename": "mfine.png",
+      "path": "presets\\logo_presets\\mfine.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "mfine"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Nano Healthsuite",
+      "filename": "nano_healthsuite.png",
+      "path": "presets\\logo_presets\\nano_healthsuite.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "nano",
+        "healthsuite"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Narayana Health Insurance",
+      "filename": "narayana_health_insurance.png",
+      "path": "presets\\logo_presets\\narayana_health_insurance.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "narayana",
+        "health",
+        "insurance"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Netmeds",
+      "filename": "netmeds.png",
+      "path": "presets\\logo_presets\\netmeds.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "netmeds"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Neuberg Diagnostics",
+      "filename": "neuberg_diagnostics.png",
+      "path": "presets\\logo_presets\\neuberg_diagnostics.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "neuberg",
+        "diagnostics"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Niramai",
+      "filename": "niramai.png",
+      "path": "presets\\logo_presets\\niramai.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "niramai"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Oncquest Laboratories",
+      "filename": "oncquest_laboratories.png",
+      "path": "presets\\logo_presets\\oncquest_laboratories.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "oncquest",
+        "laboratories"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Orange Health Labs",
+      "filename": "orange_health_labs.png",
+      "path": "presets\\logo_presets\\orange_health_labs.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "orange",
+        "health",
+        "labs"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Pb Health",
+      "filename": "pb_health.png",
+      "path": "presets\\logo_presets\\pb_health.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "health"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Pharmeasy",
+      "filename": "pharmeasy.png",
+      "path": "presets\\logo_presets\\pharmeasy.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "pharmeasy"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Portea Medical",
+      "filename": "portea_medical.png",
+      "path": "presets\\logo_presets\\portea_medical.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "portea",
+        "medical"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Practo",
+      "filename": "practo.png",
+      "path": "presets\\logo_presets\\practo.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "practo"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Pristyn Care",
+      "filename": "pristyn_care.png",
+      "path": "presets\\logo_presets\\pristyn_care.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "pristyn",
+        "care"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Redcliffe Labs",
+      "filename": "redcliffe_labs.png",
+      "path": "presets\\logo_presets\\redcliffe_labs.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "redcliffe",
+        "labs"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Sugarfit",
+      "filename": "sugarfit.png",
+      "path": "presets\\logo_presets\\sugarfit.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "sugarfit"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Sunoh Ai",
+      "filename": "sunoh_ai.png",
+      "path": "presets\\logo_presets\\sunoh_ai.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "sunoh"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Thyrocare",
+      "filename": "thyrocare.png",
+      "path": "presets\\logo_presets\\thyrocare.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "thyrocare"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Ultrahuman",
+      "filename": "ultrahuman.png",
+      "path": "presets\\logo_presets\\ultrahuman.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "ultrahuman"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Wellthy Care",
+      "filename": "wellthy_care.png",
+      "path": "presets\\logo_presets\\wellthy_care.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "wellthy",
+        "care"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Yourdost",
+      "filename": "yourdost.png",
+      "path": "presets\\logo_presets\\yourdost.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "yourdost"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Zyla Health",
+      "filename": "zyla_health.png",
+      "path": "presets\\logo_presets\\zyla_health.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "zyla",
+        "health"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Frame 2039725",
+      "filename": "Frame_2039725.png",
+      "path": "presets\\metric_cards\\Frame_2039725.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "frame",
+        "2039725"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Frame 2039726",
+      "filename": "Frame_2039726.png",
+      "path": "presets\\metric_cards\\Frame_2039726.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "frame",
+        "2039726"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Frame 2039727",
+      "filename": "Frame_2039727.png",
+      "path": "presets\\metric_cards\\Frame_2039727.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "frame",
+        "2039727"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Frame 2039728",
+      "filename": "Frame_2039728.png",
+      "path": "presets\\metric_cards\\Frame_2039728.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "frame",
+        "2039728"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Frame 2039729",
+      "filename": "Frame_2039729.png",
+      "path": "presets\\metric_cards\\Frame_2039729.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "frame",
+        "2039729"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Frame 2039730",
+      "filename": "Frame_2039730.png",
+      "path": "presets\\metric_cards\\Frame_2039730.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "frame",
+        "2039730"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Frame 2039734",
+      "filename": "Frame_2039734.png",
+      "path": "presets\\metric_cards\\Frame_2039734.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "frame",
+        "2039734"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Frame 2039735",
+      "filename": "Frame_2039735.png",
+      "path": "presets\\metric_cards\\Frame_2039735.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "frame",
+        "2039735"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Frame 2039736",
+      "filename": "Frame_2039736.png",
+      "path": "presets\\metric_cards\\Frame_2039736.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "frame",
+        "2039736"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Frame 2039737",
+      "filename": "Frame_2039737.png",
+      "path": "presets\\metric_cards\\Frame_2039737.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "frame",
+        "2039737"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Frame 2039738",
+      "filename": "Frame_2039738.png",
+      "path": "presets\\metric_cards\\Frame_2039738.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "frame",
+        "2039738"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Frame 2039739",
+      "filename": "Frame_2039739.png",
+      "path": "presets\\metric_cards\\Frame_2039739.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "frame",
+        "2039739"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Frame 2039740",
+      "filename": "Frame_2039740.png",
+      "path": "presets\\metric_cards\\Frame_2039740.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "frame",
+        "2039740"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Frame 2039741",
+      "filename": "Frame_2039741.png",
+      "path": "presets\\metric_cards\\Frame_2039741.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "frame",
+        "2039741"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Chat Screen 1",
+      "filename": "chat_screen_1.png",
+      "path": "presets\\mobile_mockup\\chat_screen_1.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "chat",
+        "screen"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Chat Screen 2",
+      "filename": "chat_screen_2.png",
+      "path": "presets\\mobile_mockup\\chat_screen_2.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "chat",
+        "screen"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Care Timeline Window",
+      "filename": "care_timeline_window.png",
+      "path": "presets\\modular_ui_mockups\\care_timeline_window.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "care",
+        "timeline",
+        "window"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Cross Channel Memory Actions",
+      "filename": "cross_channel_memory_actions.png",
+      "path": "presets\\modular_ui_mockups\\cross_channel_memory_actions.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "cross",
+        "channel",
+        "memory",
+        "actions"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Structured Memory Window",
+      "filename": "structured_memory_window.png",
+      "path": "presets\\modular_ui_mockups\\structured_memory_window.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "structured",
+        "memory",
+        "window"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Frame 201000013076",
+      "filename": "Frame_201000013076.png",
+      "path": "presets\\multi_feature_showcase\\Frame_201000013076.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "frame",
+        "201000013076"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Frame 201000013077",
+      "filename": "Frame_201000013077.png",
+      "path": "presets\\multi_feature_showcase\\Frame_201000013077.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "frame",
+        "201000013077"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Frame 201000013078",
+      "filename": "Frame_201000013078.png",
+      "path": "presets\\multi_feature_showcase\\Frame_201000013078.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "frame",
+        "201000013078"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Frame 201000013079",
+      "filename": "Frame_201000013079.png",
+      "path": "presets\\multi_feature_showcase\\Frame_201000013079.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "frame",
+        "201000013079"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Ecosystem Flow Preset",
+      "filename": "ecosystem_flow_preset.png",
+      "path": "presets\\multi_feature_showcase\\ecosystem_flow_preset.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "ecosystem",
+        "flow",
+        "preset"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Step 1 Symptom Intake",
+      "filename": "step_1_symptom_intake.png",
+      "path": "presets\\patient_journey_steps\\step_1_symptom_intake.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "step",
+        "symptom",
+        "intake"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Step 2 Memory Capture",
+      "filename": "step_2_memory_capture.png",
+      "path": "presets\\patient_journey_steps\\step_2_memory_capture.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "step",
+        "memory",
+        "capture"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Step 3 Lab Test Booking",
+      "filename": "step_3_lab_test_booking.png",
+      "path": "presets\\patient_journey_steps\\step_3_lab_test_booking.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "step",
+        "lab",
+        "test",
+        "booking"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Step 4 Memory Recall Actions",
+      "filename": "step_4_memory_recall_actions.png",
+      "path": "presets\\patient_journey_steps\\step_4_memory_recall_actions.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "step",
+        "memory",
+        "recall",
+        "actions"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Step 5 Followup Calling Agent",
+      "filename": "step_5_followup_calling_agent.png",
+      "path": "presets\\patient_journey_steps\\step_5_followup_calling_agent.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "step",
+        "followup",
+        "calling",
+        "agent"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Step 6 Patient Care Timeline",
+      "filename": "step_6_patient_care_timeline.png",
+      "path": "presets\\patient_journey_steps\\step_6_patient_care_timeline.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "step",
+        "patient",
+        "care",
+        "timeline"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Agent Orchestration Pipeline",
+      "filename": "agent_orchestration_pipeline.png",
+      "path": "presets\\platform_showcase\\agent_orchestration_pipeline.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "agent",
+        "orchestration",
+        "pipeline"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Interactions To Intelligence Matrix",
+      "filename": "interactions_to_intelligence_matrix.png",
+      "path": "presets\\platform_showcase\\interactions_to_intelligence_matrix.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "interactions",
+        "intelligence",
+        "matrix"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Omnichannel Orbit Hub",
+      "filename": "omnichannel_orbit_hub.png",
+      "path": "presets\\platform_showcase\\omnichannel_orbit_hub.png",
+      "category": "brand",
+      "subcategory": "root",
+      "tags": [
+        "brand",
+        "omnichannel",
+        "orbit",
+        "hub"
+      ],
+      "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    }
+  ]
+}
