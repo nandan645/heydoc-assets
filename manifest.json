@@ -2819,6 +2819,21 @@
       "format": "svg"
     },
     {
+      "name": "Devendra Bairwa",
+      "filename": "Devendra Bairwa.png",
+      "path": "deck\\team\\Devendra Bairwa.png",
+      "category": "team",
+      "subcategory": "team",
+      "tags": [
+        "deck",
+        "team",
+        "devendra",
+        "bairwa"
+      ],
+      "usage_rules": "Use in HeyDoc pitch decks and team presentation slides. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
       "name": "Dr Arnav Bhavsar",
       "filename": "Dr Arnav Bhavsar.png",
       "path": "deck\\team\\Dr Arnav Bhavsar.png",
@@ -2851,54 +2866,6 @@
       "format": "png"
     },
     {
-      "name": "Dr Vikrant Kanwar 1",
-      "filename": "Dr Vikrant Kanwar-1.png",
-      "path": "deck\\team\\Dr Vikrant Kanwar-1.png",
-      "category": "team",
-      "subcategory": "team",
-      "tags": [
-        "deck",
-        "team",
-        "dr",
-        "vikrant",
-        "kanwar-1"
-      ],
-      "usage_rules": "Use in HeyDoc pitch decks and team presentation slides. Maintain aspect ratio and do not distort.",
-      "format": "png"
-    },
-    {
-      "name": "Dr Vikrant Kanwar 2",
-      "filename": "Dr Vikrant Kanwar-2.png",
-      "path": "deck\\team\\Dr Vikrant Kanwar-2.png",
-      "category": "team",
-      "subcategory": "team",
-      "tags": [
-        "deck",
-        "team",
-        "dr",
-        "vikrant",
-        "kanwar-2"
-      ],
-      "usage_rules": "Use in HeyDoc pitch decks and team presentation slides. Maintain aspect ratio and do not distort.",
-      "format": "png"
-    },
-    {
-      "name": "Dr Vikrant Kanwar 3",
-      "filename": "Dr Vikrant Kanwar-3.png",
-      "path": "deck\\team\\Dr Vikrant Kanwar-3.png",
-      "category": "team",
-      "subcategory": "team",
-      "tags": [
-        "deck",
-        "team",
-        "dr",
-        "vikrant",
-        "kanwar-3"
-      ],
-      "usage_rules": "Use in HeyDoc pitch decks and team presentation slides. Maintain aspect ratio and do not distort.",
-      "format": "png"
-    },
-    {
       "name": "Dr Vikrant Kanwar",
       "filename": "Dr Vikrant Kanwar.png",
       "path": "deck\\team\\Dr Vikrant Kanwar.png",
@@ -2915,6 +2882,22 @@
       "format": "png"
     },
     {
+      "name": "Dr. Satvasheel Powar",
+      "filename": "Dr. Satvasheel Powar.png",
+      "path": "deck\\team\\Dr. Satvasheel Powar.png",
+      "category": "team",
+      "subcategory": "team",
+      "tags": [
+        "deck",
+        "team",
+        "dr",
+        "satvasheel",
+        "powar"
+      ],
+      "usage_rules": "Use in HeyDoc pitch decks and team presentation slides. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
       "name": "Mrinal Tyagi",
       "filename": "Mrinal Tyagi.png",
       "path": "deck\\team\\Mrinal Tyagi.png",
@@ -2925,6 +2908,21 @@
         "team",
         "mrinal",
         "tyagi"
+      ],
+      "usage_rules": "Use in HeyDoc pitch decks and team presentation slides. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Shishir Asthana",
+      "filename": "Shishir Asthana.png",
+      "path": "deck\\team\\Shishir Asthana.png",
+      "category": "team",
+      "subcategory": "team",
+      "tags": [
+        "deck",
+        "team",
+        "shishir",
+        "asthana"
       ],
       "usage_rules": "Use in HeyDoc pitch decks and team presentation slides. Maintain aspect ratio and do not distort.",
       "format": "png"
