@@ -2,7 +2,7 @@
   "name": "heydoc-assets",
   "version": "1.0.0",
   "description": "Official brand assets, presets, logos, UI mockups, and journey diagrams for HeyDoc.",
-  "total_assets": 137,
+  "total_assets": 208,
   "assets": [
     {
       "name": "Heydoc Logo",
@@ -1939,6 +1939,994 @@
         "hub"
       ],
       "usage_rules": "Use in official HeyDoc documentation, marketing, UI flows, and presentations. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Abdm Badge",
+      "filename": "abdm-badge.png",
+      "path": "deck\\abdm-badge.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "abdm",
+        "badge"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Abdm Logo",
+      "filename": "abdm-logo.png",
+      "path": "deck\\abdm-logo.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "abdm",
+        "logo"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Ada",
+      "filename": "ada.png",
+      "path": "deck\\ada.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "ada"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Aidoc",
+      "filename": "aidoc.png",
+      "path": "deck\\aidoc.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "aidoc"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Aiims Bilaspur",
+      "filename": "aiims-bilaspur.png",
+      "path": "deck\\aiims-bilaspur.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "aiims",
+        "bilaspur"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Aiims Delhi",
+      "filename": "aiims-delhi.png",
+      "path": "deck\\aiims-delhi.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "aiims",
+        "delhi"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Amazon",
+      "filename": "amazon.svg",
+      "path": "deck\\amazon.svg",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "amazon"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "svg"
+    },
+    {
+      "name": "Blue Circle",
+      "filename": "blue-circle.png",
+      "path": "deck\\blue-circle.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "blue",
+        "circle"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Building Red",
+      "filename": "building-red.png",
+      "path": "deck\\building-red.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "building",
+        "red"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Chart Donut",
+      "filename": "chart-donut.svg",
+      "path": "deck\\chart-donut.svg",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "chart",
+        "donut"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "svg"
+    },
+    {
+      "name": "Clearmedi",
+      "filename": "clearmedi.png",
+      "path": "deck\\clearmedi.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "clearmedi"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Clinic Room",
+      "filename": "clinic-room.png",
+      "path": "deck\\clinic-room.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "clinic",
+        "room"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Dashboard",
+      "filename": "dashboard.png",
+      "path": "deck\\dashboard.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "dashboard"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Flag Eu",
+      "filename": "flag-eu.png",
+      "path": "deck\\flag-eu.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "flag",
+        "eu"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Flag Gcc",
+      "filename": "flag-gcc.png",
+      "path": "deck\\flag-gcc.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "flag",
+        "gcc"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Flag Us",
+      "filename": "flag-us.png",
+      "path": "deck\\flag-us.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "flag",
+        "us"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "G7",
+      "filename": "g7.png",
+      "path": "deck\\g7.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "g7"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Google Ai",
+      "filename": "google-ai.png",
+      "path": "deck\\google-ai.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "google",
+        "ai"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Google Startups",
+      "filename": "google-startups.jpg",
+      "path": "deck\\google-startups.jpg",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "google",
+        "startups"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "jpg"
+    },
+    {
+      "name": "Hospidash",
+      "filename": "hospidash.svg",
+      "path": "deck\\hospidash.svg",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "hospidash"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "svg"
+    },
+    {
+      "name": "Hospital 1",
+      "filename": "hospital-1.png",
+      "path": "deck\\hospital-1.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "hospital",
+        "1"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Hospital 2",
+      "filename": "hospital-2.png",
+      "path": "deck\\hospital-2.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "hospital",
+        "2"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Hospital 3",
+      "filename": "hospital-3.png",
+      "path": "deck\\hospital-3.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "hospital",
+        "3"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Hospital 4",
+      "filename": "hospital-4.png",
+      "path": "deck\\hospital-4.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "hospital",
+        "4"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Icon Arrow Up",
+      "filename": "icon-arrow-up.svg",
+      "path": "deck\\icon-arrow-up.svg",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "icon",
+        "arrow",
+        "up"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "svg"
+    },
+    {
+      "name": "Icon Bed",
+      "filename": "icon-bed.svg",
+      "path": "deck\\icon-bed.svg",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "icon",
+        "bed"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "svg"
+    },
+    {
+      "name": "Icon Check",
+      "filename": "icon-check.png",
+      "path": "deck\\icon-check.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "icon",
+        "check"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Icon Cross",
+      "filename": "icon-cross.png",
+      "path": "deck\\icon-cross.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "icon",
+        "cross"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Icon Doctor",
+      "filename": "icon-doctor.svg",
+      "path": "deck\\icon-doctor.svg",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "icon",
+        "doctor"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "svg"
+    },
+    {
+      "name": "Icon Health",
+      "filename": "icon-health.svg",
+      "path": "deck\\icon-health.svg",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "icon",
+        "health"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "svg"
+    },
+    {
+      "name": "Icon Hospital 2",
+      "filename": "icon-hospital-2.svg",
+      "path": "deck\\icon-hospital-2.svg",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "icon",
+        "hospital",
+        "2"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "svg"
+    },
+    {
+      "name": "Icon Hospital",
+      "filename": "icon-hospital.svg",
+      "path": "deck\\icon-hospital.svg",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "icon",
+        "hospital"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "svg"
+    },
+    {
+      "name": "Icon Monitor",
+      "filename": "icon-monitor.png",
+      "path": "deck\\icon-monitor.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "icon",
+        "monitor"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Icon Nurse",
+      "filename": "icon-nurse.svg",
+      "path": "deck\\icon-nurse.svg",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "icon",
+        "nurse"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "svg"
+    },
+    {
+      "name": "Icon Patient",
+      "filename": "icon-patient.svg",
+      "path": "deck\\icon-patient.svg",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "icon",
+        "patient"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "svg"
+    },
+    {
+      "name": "Icon People",
+      "filename": "icon-people.png",
+      "path": "deck\\icon-people.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "icon",
+        "people"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Icon Sparkle",
+      "filename": "icon-sparkle.svg",
+      "path": "deck\\icon-sparkle.svg",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "icon",
+        "sparkle"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "svg"
+    },
+    {
+      "name": "Iim Ahmedabad",
+      "filename": "iim-ahmedabad.svg",
+      "path": "deck\\iim-ahmedabad.svg",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "iim",
+        "ahmedabad"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "svg"
+    },
+    {
+      "name": "Iim Calcutta",
+      "filename": "iim-calcutta.svg",
+      "path": "deck\\iim-calcutta.svg",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "iim",
+        "calcutta"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "svg"
+    },
+    {
+      "name": "Iit Indore",
+      "filename": "iit-indore.png",
+      "path": "deck\\iit-indore.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "iit",
+        "indore"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Iit Madras",
+      "filename": "iit-madras.png",
+      "path": "deck\\iit-madras.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "iit",
+        "madras"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Iit Mandi",
+      "filename": "iit-mandi.png",
+      "path": "deck\\iit-mandi.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "iit",
+        "mandi"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Iitm Catalyst",
+      "filename": "iitm-catalyst.png",
+      "path": "deck\\iitm-catalyst.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "iitm",
+        "catalyst"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Illustration",
+      "filename": "Illustration.png",
+      "path": "deck\\Illustration.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "illustration"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Iria",
+      "filename": "iria.png",
+      "path": "deck\\iria.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "iria"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Map Maharashtra",
+      "filename": "map-maharashtra.svg",
+      "path": "deck\\map-maharashtra.svg",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "map",
+        "maharashtra"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "svg"
+    },
+    {
+      "name": "Map Up",
+      "filename": "map-up.svg",
+      "path": "deck\\map-up.svg",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "map",
+        "up"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "svg"
+    },
+    {
+      "name": "Mem0",
+      "filename": "mem0.png",
+      "path": "deck\\mem0.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "mem0"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Microsoft",
+      "filename": "microsoft.png",
+      "path": "deck\\microsoft.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "microsoft"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Monash",
+      "filename": "monash.png",
+      "path": "deck\\monash.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "monash"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Nha",
+      "filename": "nha.png",
+      "path": "deck\\nha.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "nha"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Pathkind",
+      "filename": "pathkind.png",
+      "path": "deck\\pathkind.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "pathkind"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Phone Agents",
+      "filename": "phone-agents.png",
+      "path": "deck\\phone-agents.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "phone",
+        "agents"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Phone Report",
+      "filename": "phone-report.png",
+      "path": "deck\\phone-report.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "phone",
+        "report"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Pwc",
+      "filename": "pwc.svg",
+      "path": "deck\\pwc.svg",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "pwc"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "svg"
+    },
+    {
+      "name": "Santushti",
+      "filename": "santushti.png",
+      "path": "deck\\santushti.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "santushti"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Tata 1mg",
+      "filename": "tata-1mg.png",
+      "path": "deck\\tata-1mg.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "tata",
+        "1mg"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Walmart",
+      "filename": "walmart.png",
+      "path": "deck\\walmart.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "walmart"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Wellnessgpt Agents",
+      "filename": "wellnessgpt-agents.svg",
+      "path": "deck\\wellnessgpt-agents.svg",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "wellnessgpt",
+        "agents"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "svg"
+    },
+    {
+      "name": "Wellnessgpt",
+      "filename": "wellnessgpt.svg",
+      "path": "deck\\wellnessgpt.svg",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "wellnessgpt"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "svg"
+    },
+    {
+      "name": "Who",
+      "filename": "who.png",
+      "path": "deck\\who.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "who"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "World Map",
+      "filename": "world-map.svg",
+      "path": "deck\\world-map.svg",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "world",
+        "map"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "svg"
+    },
+    {
+      "name": "Zep",
+      "filename": "zep.png",
+      "path": "deck\\zep.png",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "zep"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Patient",
+      "filename": "Patient.svg",
+      "path": "deck\\Patient.svg",
+      "category": "deck",
+      "subcategory": "root",
+      "tags": [
+        "deck",
+        "patient"
+      ],
+      "usage_rules": "Use in HeyDoc presentation decks, pitch materials, and documentation. Maintain aspect ratio and do not distort.",
+      "format": "svg"
+    },
+    {
+      "name": "Dr Arnav Bhavsar",
+      "filename": "Dr Arnav Bhavsar.png",
+      "path": "deck\\team\\Dr Arnav Bhavsar.png",
+      "category": "team",
+      "subcategory": "team",
+      "tags": [
+        "deck",
+        "team",
+        "dr",
+        "arnav",
+        "bhavsar"
+      ],
+      "usage_rules": "Use in HeyDoc pitch decks and team presentation slides. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Dr Navneet Tyagi",
+      "filename": "Dr Navneet Tyagi.png",
+      "path": "deck\\team\\Dr Navneet Tyagi.png",
+      "category": "team",
+      "subcategory": "team",
+      "tags": [
+        "deck",
+        "team",
+        "dr",
+        "navneet",
+        "tyagi"
+      ],
+      "usage_rules": "Use in HeyDoc pitch decks and team presentation slides. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Dr Vikrant Kanwar 1",
+      "filename": "Dr Vikrant Kanwar-1.png",
+      "path": "deck\\team\\Dr Vikrant Kanwar-1.png",
+      "category": "team",
+      "subcategory": "team",
+      "tags": [
+        "deck",
+        "team",
+        "dr",
+        "vikrant",
+        "kanwar-1"
+      ],
+      "usage_rules": "Use in HeyDoc pitch decks and team presentation slides. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Dr Vikrant Kanwar 2",
+      "filename": "Dr Vikrant Kanwar-2.png",
+      "path": "deck\\team\\Dr Vikrant Kanwar-2.png",
+      "category": "team",
+      "subcategory": "team",
+      "tags": [
+        "deck",
+        "team",
+        "dr",
+        "vikrant",
+        "kanwar-2"
+      ],
+      "usage_rules": "Use in HeyDoc pitch decks and team presentation slides. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Dr Vikrant Kanwar 3",
+      "filename": "Dr Vikrant Kanwar-3.png",
+      "path": "deck\\team\\Dr Vikrant Kanwar-3.png",
+      "category": "team",
+      "subcategory": "team",
+      "tags": [
+        "deck",
+        "team",
+        "dr",
+        "vikrant",
+        "kanwar-3"
+      ],
+      "usage_rules": "Use in HeyDoc pitch decks and team presentation slides. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Dr Vikrant Kanwar",
+      "filename": "Dr Vikrant Kanwar.png",
+      "path": "deck\\team\\Dr Vikrant Kanwar.png",
+      "category": "team",
+      "subcategory": "team",
+      "tags": [
+        "deck",
+        "team",
+        "dr",
+        "vikrant",
+        "kanwar"
+      ],
+      "usage_rules": "Use in HeyDoc pitch decks and team presentation slides. Maintain aspect ratio and do not distort.",
+      "format": "png"
+    },
+    {
+      "name": "Mrinal Tyagi",
+      "filename": "Mrinal Tyagi.png",
+      "path": "deck\\team\\Mrinal Tyagi.png",
+      "category": "team",
+      "subcategory": "team",
+      "tags": [
+        "deck",
+        "team",
+        "mrinal",
+        "tyagi"
+      ],
+      "usage_rules": "Use in HeyDoc pitch decks and team presentation slides. Maintain aspect ratio and do not distort.",
       "format": "png"
     }
   ]
